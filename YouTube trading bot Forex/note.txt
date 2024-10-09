@@ -1,0 +1,7 @@
+20240816
+
+How To Build A Trading Bot In Python
+https://www.youtube.com/watch?v=WcfKaZL4vpA
+
+How To Backtest A Trading Strategy in Python
+https://www.youtube.com/watch?v=vPBwO6Fa6rc
