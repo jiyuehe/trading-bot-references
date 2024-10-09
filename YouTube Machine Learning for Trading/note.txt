@@ -1,0 +1,33 @@
+20240727
+
+Algorithmic Trading – Machine Learning & Quant Strategies Course with Python
+https://www.youtube.com/watch?v=9Y3yaoi9rUQ
+Project 1 - Unsupervised Learning Trading Strategy
+Project 2 - Twitter Sentiment Trading Strategy
+Project 3 - Intraday GARCH Trading Strategy
+
+Examples of machine learning in trading
+- Supervised Learning
+-- Singal generation through prediction. For example, buy or sell signals based on predicted returns or direction.
+-- Risk management through prediction. For example, determining position sizing and stop-loss levels to have more optimized risk.
+- Unsupervised Learning
+-- Extract insights from the data. For example, discover patterns, relationships and structures.
+
+Challenges to applying machine learning in trading
+- Reflexivity: if you found a good method and applied it, over time, others will notice that and take similar action, then the good method will no longer work.
+- Hard to predict returns or prices, return signs, economic indicator.
+- Not so hard to predict volatility.
+- Technical: overfitting and generalization, non-stationarity and regime shifts, interpretation of black-box models.
+
+Workflow:
+1. Collect and prepare the data.
+2. Develop a hypothesis for a strategy.
+3. Coding the model.
+4. Backtest the strategy.
+
+Unsupervised learning
+- Clustering
+- Dimensionality Reduction
+- Anomaly Detection
+- Market Regime Detection
+- Portfolio Optimization
